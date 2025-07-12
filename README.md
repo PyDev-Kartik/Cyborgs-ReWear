@@ -17,7 +17,7 @@ Develop ReWear, a web-based platform that enables users to exchange unused cloth
 - Session-based authentication for user data safety.
 
 #### 🏠 Landing Page
-- Platform overview with featured items carousel.
+- Platform overview with featured items carousel which can be swapped based on points.
 - Clear calls to action: **Start Swapping**, **Browse Items**, and **List an Item**.
 
 #### 📊 User Dashboard
